@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Profile from "../images/Profile image.jpeg";
+import Profile from "../images/profile_linkedin_image.jpg";
 
 
 function Title(props){
