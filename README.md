@@ -6,7 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start` for frontend and `python main.py` for backend
+### `npm start` for frontend
+For backend:
+cd src
+python main.py
 There is also a mysql database which is reside locally. Database is locally stored in my computer that's why you cannot access it.
 
 Runs the app in the development mode.\
