@@ -6,18 +6,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` for frontend and `python main.py` for backend
+There is also a mysql database which is reside locally. Database is locally stored in my computer that's why you cannot access it.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+There might be some issues in it. Please ignore it. 
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+#Functionality of website:
+- You can add projects by adding in the url at last "/project/add". 
+- Similarly for blogs "blog/add".
+- You can add a recommendation for me by clicking on write-a-recommendation in footer section.
 
 ### `npm run build`
 
